@@ -1,13 +1,16 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Chandraprakash Saravanan — Data · Gen AI · AI Agents · RAG · NLP · Recommenders · Search · LangGraph · LangChain · MCP · MLOps on Azure & AWS"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg"/>
+    <img src="./assets/hero-light.svg" alt="Chandraprakash Saravanan — Data · Gen AI · AI Agents · RAG · NLP · MLOps"/>
+  </picture>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chandraprakash-saravanan/"><img src="./assets/social/linkedin.svg" width="32" alt="LinkedIn" title="LinkedIn"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.ignitho.com"><img src="./assets/social/website.svg" width="32" alt="Ignitho website" title="ignitho.com"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/chandru-master?tab=repositories"><img src="./assets/social/github.svg" width="32" alt="GitHub repositories" title="Repositories"/></a>
+  <a href="https://www.linkedin.com/in/chandraprakash-saravanan/"><img src="./assets/social/linkedin.svg" width="40" alt="LinkedIn" title="LinkedIn"/></a>
+  &#8287;&#8287;
+  <a href="https://www.ignitho.com"><img src="./assets/social/website.svg" width="40" alt="Ignitho website" title="ignitho.com"/></a>
+  &#8287;&#8287;
+  <a href="https://github.com/chandru-master?tab=repositories"><img src="./assets/social/github.svg" width="40" alt="GitHub repositories" title="Repositories"/></a>
 </p>
 
 <p align="center">
@@ -77,13 +80,3 @@ I'm the **CTO and Delivery Head for India at [Ignitho](https://www.ignitho.com)*
   </p>
 </details>
 
-<details open>
-  <summary><h2>📘 Projects on GitHub</h2></summary>
-  <p>
-    <a href="https://github.com/chandru-master/deeplearning_in_opthalmology"><img width="400" src="./assets/cards/deeplearning_in_opthalmology.svg" alt="Deep Learning in Ophthalmology"/></a>
-    <a href="https://github.com/chandru-master/twitter-tweets-counter"><img width="400" src="./assets/cards/twitter-tweets-counter.svg" alt="Tweet Word-Frequency Pipeline"/></a>
-    <a href="https://github.com/chandru-master/Happymonk-AI"><img width="400" src="./assets/cards/Happymonk-AI.svg" alt="Person & Vehicle Detection"/></a>
-    <a href="https://github.com/chandru-master/fastapi"><img width="400" src="./assets/cards/fastapi.svg" alt="FastAPI × NoSQL"/></a>
-  </p>
-  <a href="https://github.com/chandru-master?tab=repositories"><img src="./assets/badges/cta-repos.svg" alt="All repositories"/></a>
-</details>
