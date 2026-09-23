@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/badges/fact-role.svg" alt="Role: CTO & Delivery Head – India"/>
+  <img src="./assets/badges/fact-role.svg" alt="Role: CTO &amp; Delivery Head – India"/>
   <a href="https://www.ignitho.com"><img src="./assets/badges/fact-company.svg" alt="Company: Ignitho Inc."/></a>
   <img src="./assets/badges/fact-location.svg" alt="Based in: Chennai, India"/>
 </p>
@@ -21,24 +21,33 @@
 
 <table align="center">
   <tr>
-    <td width="53%" valign="middle">
+    <td valign="middle">
 
-I lead engineering and delivery for enterprise **Data & AI** programmes — taking Gen AI and agentic systems from first prototype to reliable production.
+I lead engineering and delivery for enterprise **Data & AI** programmes, taking Gen AI and agentic systems from prototype to production.
 
-- 🤖 **Gen AI & AI agents** — agentic workflows and multi-agent systems
-- 🔎 **RAG & search** — retrieval-augmented generation and enterprise search
-- 🧠 **NLP & recommenders** — language understanding and personalisation
-- ⚙️ **MLOps** — shipping and running models on Azure and AWS
+- 🤖 **Gen AI & AI agents** — multi-agent systems
+- 🔎 **RAG & search** — retrieval-augmented generation
+- 🧠 **NLP & recommenders** — language & personalisation
+- ⚙️ **MLOps** — production AI on Azure & AWS
 
 </td>
-    <td width="47%" align="center" valign="middle">
+    <td align="center" valign="middle">
       <picture>
+        <source media="(max-width: 767px)" srcset="./assets/art/blank.png"/>
         <source media="(prefers-color-scheme: dark)" srcset="./assets/art/engineer-dark.gif"/>
-        <img src="./assets/art/engineer-light.gif" height="297" alt="Engineer designing a system at a desk"/>
+        <img src="./assets/art/engineer-light.gif" alt="Engineer designing a system at a desk"/>
       </picture>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="./assets/art/engineer-dark.gif"/>
+    <source media="(max-width: 767px)" srcset="./assets/art/engineer-light.gif"/>
+    <img src="./assets/art/blank.png" alt=""/>
+  </picture>
+</p>
 
 <p align="center">
   <picture>
@@ -97,4 +106,3 @@ I lead engineering and delivery for enterprise **Data & AI** programmes — taki
   <a href="https://www.ignitho.com"><img src="./assets/badges/contact-ignitho.svg" alt="Ignitho"/></a>
   <a href="https://github.com/chandru-master?tab=repositories"><img src="./assets/badges/contact-github.svg" alt="GitHub"/></a>
 </p>
-
